@@ -1,0 +1,5 @@
+name: Facet api Start with A filter
+type: module
+description: Filters out all the results that start with an 'A'
+core: 8.x
+package: Other
