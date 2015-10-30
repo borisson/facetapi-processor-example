@@ -1,7 +1,7 @@
 <?php
 /**
  * @file
- * Contains \Drupal\facetapi\Plugin\facetapi\HideStartWithA.
+ * Contains \Drupal\facet_api_start_with_a_filter\Plugin\facetapi\HideStartWithA.
  */
 
 namespace Drupal\facet_api_start_with_a_filter\Plugin\facetapi\processor;
