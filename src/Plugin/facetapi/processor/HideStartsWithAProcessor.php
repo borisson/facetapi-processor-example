@@ -23,7 +23,7 @@ use Drupal\facetapi\Result\Result;
  *   }
  * )
  */
-class HideStartWithA extends ProcessorPluginBase implements BuildProcessorInterface {
+class HideStartsWithAProcessor extends ProcessorPluginBase implements BuildProcessorInterface {
 
   /**
    * {@inheritdoc}
